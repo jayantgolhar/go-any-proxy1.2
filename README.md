@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/ryanchapman/go-any-proxy.png)](https://travis-ci.org/ryanchapman/go-any-proxy)
-
 # Any Proxy
 
 go-any-proxy is a server that can transparently proxy any tcp connection through an upstream proxy server.  It is developed by Ryan A. Chapman.
@@ -13,7 +11,7 @@ Following are some of the features added to original work.
 
 -Order Proxy Server Address list
 
-## Install Info 
+### Install Info 
 You may need to run `go get github.com/zdannar/flogger` for library dependencies.
 
 git clone https://github.com/jayantgolhar/go-any-proxy1.2.git
