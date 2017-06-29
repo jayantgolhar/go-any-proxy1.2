@@ -16,13 +16,12 @@ Following are some of the features added to original work.
 ## Install Info 
 You may need to run `go get github.com/zdannar/flogger` for library dependencies.
 
-
 git clone https://github.com/jayantgolhar/go-any-proxy1.2.git
 
-Compilatin
-./make.bash
+###Compilation
+`./make.bash`
 
-Execution
-./run.sh
+###Execution
+`./run.sh`
 
 # go-any-proxy
