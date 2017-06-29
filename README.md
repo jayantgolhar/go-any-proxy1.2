@@ -2,9 +2,12 @@
 
 # Any Proxy
 
-go-any-proxy is a server that can transparently proxy any tcp connection through an upstream proxy server.  This type
-of setup is common in corporate environments.  It is written in golang and has been load tested with 10,000 concurrent
-connections successfully on a Vyatta running a 64-bit kernel.
+go-any-proxy is a server that can transparently proxy any tcp connection through an upstream proxy server.  It is developed by Ryan A. Chapman.
+Following are some of the features added to original work.
+->User Activity Logging in Squid format
+->Load Balancing
+->Handling failure of Squid Proxy
+->Order Proxy Server Address list
 
 ## Travis-CI
 
