@@ -18,10 +18,10 @@ You may need to run `go get github.com/zdannar/flogger` for library dependencies
 
 git clone https://github.com/jayantgolhar/go-any-proxy1.2.git
 
-###Compilation
+### Compilation
 `./make.bash`
 
-###Execution
+### Execution
 `./run.sh`
 
 # go-any-proxy
