@@ -4,9 +4,13 @@
 
 go-any-proxy is a server that can transparently proxy any tcp connection through an upstream proxy server.  It is developed by Ryan A. Chapman.
 Following are some of the features added to original work.
+
 ->User Activity Logging in Squid format
+
 ->Load Balancing
+
 ->Handling failure of Squid Proxy
+
 ->Order Proxy Server Address list
 
 ## Travis-CI
